@@ -1,0 +1,15 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    
+}
+
+ul {font-size: 20px; color: bisque;}
+li {font-size: 20px; color: bisque;}
+h1 {text-align-last: center; color: bisque;}
+h2 {color: bisque;}
+h3 {color: bisque;}
+a {font-size: 20px;color: red;} 
